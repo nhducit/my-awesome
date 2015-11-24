@@ -1,3 +1,3 @@
 # my-awesome
-Javascript
+# Javascript
 Promise sample implementation: https://www.promisejs.org/implementing/ 
